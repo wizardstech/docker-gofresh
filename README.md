@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/wizardstech/docker.svg?branch=master)](https://travis-ci.org/wizardstech/docker)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/wizardstech/gofresh.svg) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/wizardstech/gofresh.svg)
 
 # Supported tags and respective Dockerfile links
 
